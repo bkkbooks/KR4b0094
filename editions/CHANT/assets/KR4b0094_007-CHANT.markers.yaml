@@ -70,6 +70,7 @@ markers:
   - {type: xml-element, offset: 78, content: '', id: KR4b0094_CHANT_007-bkkxmlele16, name: p, role: close}
   - {type: xml-element, offset: 78, content: '', id: KR4b0094_CHANT_007-bkkxmlele17, name: p, role: open}
   - {type: 'tls:seg', offset: 78, content: '', id: KR4b0094_CHANT_007-3a.3}
+  - {type: 'voice:problem', offset: 78, length: 0, id: KR4b0094_CHANT_007-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 78 with no matching '('}
   - {type: punctuation, offset: 83, content: ，, id: KR4b0094_CHANT_007-bkkpn32}
   - {type: 'tls:seg', offset: 83, content: '', id: KR4b0094_CHANT_007-3a.4}
   - {type: punctuation, offset: 88, content: 。, id: KR4b0094_CHANT_007-bkkpn33}
@@ -357,4 +358,4 @@ markers:
   - {type: punctuation, offset: 540, content: 。, id: KR4b0094_CHANT_007-bkkpn179}
   - {type: xml-element, offset: 540, content: '', id: KR4b0094_CHANT_007-bkkxmlele70, name: p, role: close}
   back: []
-hash: sha256:5f6227aaaf66443401c28b8756146771b44b4b268934334e74dd7116dc94774a
+hash: sha256:d5fd2ca066c0c5be0c94455f3f98e57360ebd7ee47626abc0667900a95316e5f
